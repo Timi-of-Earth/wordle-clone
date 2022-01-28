@@ -1,7 +1,10 @@
-const data = [
-    'crack', 'house', 'whose'
-];
+// const word = require('../word-chooser').default;
 
-const wordToday = ['c', 'r', 'a', 'c', 'k'];
+// //const wordToday = async () => {
+// //    const word = await chooseWord();
+// //    return word.split('');
+// //}
 
-module.exports = wordToday;
+// const wordToday = word.split('');
+
+// module.exports = wordToday;
